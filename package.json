@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start UtilityTypes": "node ts/UtilityTypes/script.js",
+    "start TwoLinkedList": "node ts/TwoLinkedList/script.js"
+  }
+}
